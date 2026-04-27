@@ -38,9 +38,12 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ronald-hiedley/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30"/>
-</a>
+  <a href="https://www.linkedin.com/in/ronald-hiedley/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:contact.hiedley@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
