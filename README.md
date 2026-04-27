@@ -48,3 +48,6 @@
 
 ---
 
+<p align="center">
+  <i>Building real solutions. One commit at a time.</i> 🟩
+</p>
