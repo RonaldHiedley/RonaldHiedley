@@ -45,6 +45,3 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy building backend systems and continuously improving my problem-solving skills.
