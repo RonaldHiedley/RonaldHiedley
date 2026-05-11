@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ronaldhiedley">
+  <a href="https://github.com/RonaldHiedley">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronaldhiedley&show_icons=true&theme=tokyonight"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldhiedley&layout=compact&theme=tokyonight"/>
   </a>
