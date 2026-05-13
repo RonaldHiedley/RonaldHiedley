@@ -26,8 +26,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/RonaldHiedley">
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronaldhiedley&show_icons=true&theme=tokyonight"/>
